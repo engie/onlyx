@@ -1,3 +1,7 @@
+---
+layout: default
+nav_order: 2
+---
 ## Why onlyx?
 In 2015 I was pleased to add the [onlyx](https://docs.hhvm.com/hsl/reference/function/HH.Lib.C.onlyx/) function to the FB Hack standard library. It extended a family of array (well, technically Traversable) helper functions featuring old favourites like:
 * **first**: get the first element - return null if the array is empty
