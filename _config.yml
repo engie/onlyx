@@ -2,3 +2,6 @@ remote_theme: pmarsceill/just-the-docs
 title: onlyx.tech
 description: Playing with computers
 url: "https://onlyx.tech"
+aux_links:
+  "Contact Me":
+    - "mailto:steve@secomputing.co.uk"
