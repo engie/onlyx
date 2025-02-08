@@ -3,7 +3,7 @@ layout: default
 title: CP-Sat vs Simple DFS
 nav_order: 3
 ---
-SAT solvers have a reputation for indistinguishable-from-magic performace in solving hugely complex problems. Ideal for solving a brain-puzzler from a 5 year olds puzzle book.
+SAT solvers have a reputation for indistinguishable-from-magic performance when solving hugely complex problems. Ideal for solving a brain-puzzler from [a 5 year olds puzzle book](https://www.amazon.co.uk/Intermediate-Logic-Workbook-Gritty-Kids/dp/B0CTYQ1JGR0).
 ![Page 40 of Intermediate Problems for Gritty Kids](/assets/images/puzzle.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Python Solution
