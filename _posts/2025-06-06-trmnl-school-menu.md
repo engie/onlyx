@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: post
 title: TRMNL School Menu
-nav_order: 4
+date: 2024-12-01
+categories: projects hardware
 ---
 I've hacked up a [TRMNL](https://usetrmnl.com/) private plugin to display [Hampshire primary school meals](https://www.hants.gov.uk/educationandlearning/education-catering/parent-information/primary).
 ![A photo of a TRMNL screen showing the meat, meat free and dessert options for Today(Friday) and Monday in the Hampshire Primary School Catering menu](/assets/images/menu.png){:style="display:block; margin-left:auto; margin-right:auto"}
