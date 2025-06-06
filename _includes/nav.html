@@ -1,13 +1,4 @@
 <ul class="nav-list">
-  {%- assign pages_list = site.html_pages | sort:"nav_order" -%}
-  {%- for node in pages_list -%}
-    {%- unless node.nav_exclude -%}
-      <li class="nav-list-item{% if page.url == node.url %} active{% endif %}">
-        <a href="{{ node.url | absolute_url }}" class="nav-list-link{% if page.url == node.url %} active{% endif %}">{{ node.title }}</a>
-      </li>
-    {%- endunless -%}
-  {%- endfor -%}
-  
   {%- assign posts_list = site.posts | sort:"date" | reverse -%}
   {%- for post in posts_list -%}
     <li class="nav-list-item{% if page.url == post.url %} active{% endif %}">
