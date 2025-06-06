@@ -1,8 +1,0 @@
-<ul class="nav-list">
-  {%- assign posts_list = site.posts | sort:"date" | reverse -%}
-  {%- for post in posts_list -%}
-    <li class="nav-list-item{% if page.url == post.url %} active{% endif %}">
-      <a href="{{ post.url | absolute_url }}" class="nav-list-link{% if page.url == post.url %} active{% endif %}">{{ post.title }}</a>
-    </li>
-  {%- endfor -%}
-</ul>
