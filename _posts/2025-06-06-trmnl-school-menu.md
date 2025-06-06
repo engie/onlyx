@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TRMNL School Menu
-date: 2024-12-01
+date: 2025-06-06
 categories: projects hardware
 ---
 I've hacked up a [TRMNL](https://usetrmnl.com/) private plugin to display [Hampshire primary school meals](https://www.hants.gov.uk/educationandlearning/education-catering/parent-information/primary).

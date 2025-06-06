@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CP-Sat vs Simple DFS
-date: 2024-01-01
+date: 2025-02-08
 categories: programming algorithms
 ---
 SAT solvers have a reputation for indistinguishable-from-magic performance when solving hugely complex problems. Ideal for solving a brain-puzzler from [a 7 year olds puzzle book](https://www.amazon.co.uk/Intermediate-Logic-Workbook-Gritty-Kids/dp/B0CTYQ1JGR).

@@ -8,6 +8,7 @@ search_enabled: false
 
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 feed:
   collections:
